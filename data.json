@@ -1,0 +1,19 @@
+{
+  "owl" : [
+    {
+      "img": "img/kuvaIso1.jpg"
+    },
+    {
+      "img": "img/kuvaIso2.jpg"
+    },
+    {
+      "img": "img/kuvaIso3.jpg"
+    },
+    {
+      "img": "img/kuvaIso4.jpg"
+    },
+    {
+      "img": "img/kuvaIso5.jpg"
+    }
+  ]
+}
